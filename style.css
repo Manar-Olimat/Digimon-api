@@ -1,0 +1,9 @@
+#cardsDiv {
+    margin: 0 auto;
+    row-gap: 2.4rem;
+    margin-top: 3.6rem;
+    margin-bottom: 3.6rem;
+  }
+  .card {
+    box-shadow: 1px 2px rgb(0, 36, 51, 0.5);
+  }
